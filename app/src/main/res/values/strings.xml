@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskAPP</string>
+    <string name="openmode">Open</string>
+    <string name="closemode">Close</string>
+    <string name="profile_image_description">Profile Picture Description</string>
+
+</resources>
